@@ -1,0 +1,1 @@
+Imitate the elements used on the google.ca homepage
